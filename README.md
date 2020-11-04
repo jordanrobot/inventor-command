@@ -1,6 +1,6 @@
 ### Inventor Command!
 
-A modal, live-search command launcher for Autodesk Inventor.  Similar to Quicksilver, Launchy, Spotlight, Alfred, etc.
+A command launcher for Autodesk Inventor.  Similar to Quicksilver, Launchy, Spotlight, Alfred, etc.
 
 #### Description
 

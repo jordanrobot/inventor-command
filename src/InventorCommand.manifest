@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="InventorCommand" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{6B3D0105-4060-45B2-93D8-C7E3C3B40505}" progid="InventorCommand.StandardAddInServer" threadingModel="Both" name="InventorCommand.InventorCommand.StandardAddInServer" runtimeVersion=""></clrClass>
+  <file name="InventorCommand.dll" hashalg="SHA1"></file>
+</assembly>

@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor >= 2015 (Version 19.0)-->
+  <ClassId>{6B3D0105-4060-45B2-93D8-C7E3C3B40505}</ClassId>
+  <ClientId>{6B3D0105-4060-45B2-93D8-C7E3C3B40505}</ClientId>
+  <DisplayName>InventorCommand</DisplayName>
+  <Description>InventorCommand</Description>
+  <Assembly>InventorCommand.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>19..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
